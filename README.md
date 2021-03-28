@@ -17,7 +17,7 @@ This collection of Jupyter notebooks was developed by undergraduate students at 
 
 This Jupyter notebook exists to establish a canonical record of seawater measurements pertaining to coastal upwelling using data collected by the OOI RCA. Statistical analysis and data visualization of practical salinity is done within the notebook. 
 
-This notebook is incomplete and is currently under development.
+This notebook completed an initial analysis of 1 week of salinity and temperature data at one location in the OOI RCA. More work can be done using code here to further explore the California Current upwelling system. 
 
 
 
